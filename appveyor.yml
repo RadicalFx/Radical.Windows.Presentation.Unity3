@@ -8,6 +8,8 @@
     - develop
   configuration: Debug
   platform: Any CPU
+  pull_requests:
+    do_not_increment_build_number: true
   cache:
   - src\packages -> src\**\packages.config
   install:
@@ -45,6 +47,8 @@
     - master
   configuration: Release
   platform: Any CPU
+  pull_requests:
+    do_not_increment_build_number: true
   cache:
   - src\packages -> src\**\packages.config
   install:
