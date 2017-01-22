@@ -15,8 +15,8 @@
         <language>en-US</language>
         <tags>Radical Radical.Windows Unity Unity3</tags>
         <dependencies>
-            <dependency id="Radical.Windows.Presentation" version="1.0.6.0-RC3" />
-            <dependency id="Unity" version="3.0.1304.0" />
+            <dependency id="Radical.Windows.Presentation" version="[1.1,2.0)" />
+            <dependency id="Unity" version="[3.0.1304,4.0)" />
         </dependencies>
     </metadata>
     <files>
