@@ -1,7 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/Radicalfx/Radical.Windows.Presentation.Unity3.png?label=ready&title=Ready)](http://waffle.io/Radicalfx/housekeeping)
-[![Stories in Progress](https://badge.waffle.io/Radicalfx/Radical.Windows.Presentation.Unity3.png?label=in progress&title=In Progress)](http://waffle.io/Radicalfx/housekeeping)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/jwbxgfemwfobyt8a?svg=true)](https://ci.appveyor.com/project/radical-bot/radical-windows-presentation-unity3)
+## This package reached its end of life and is not maintained anymore.
 
 --
 
